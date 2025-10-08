@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+trace.zip
+video/
+screenshots/
+.idea/
+.vscode/
+.DS_Store
+npm-debug.log*
+package-lock.json
+.env
+/.history
